@@ -1,4 +1,10 @@
 # Medicare-and-Medicaid-Spend-Analysis
+
+Overview:
+
+Healthcare in the United States is expensive! An accident causes not just physical, emotional and psychological damage, but economic too. Approximately 15% of the population is over 65 years of age. To aid people who are 65 and above, the government provides “Medicare” – A health program. Approximately 12% of the population falls below the poverty line. To aid people who fall in the poverty category, the government provides “Medicaid” – A health program with varying coverage based on the state. Our goal is to test out the efficiency of dispersion of funds for these two government health programs and test hypotheses with visual indicators which throws light on areas of improvement.
+
+
 Folders and Files in the repo:
 
 <Folder> SSIS - Contains visual basic files that fetches data from various data sources into the data warehouse. Complete ETL process is completed in this solution.
